@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081426719534",
+    "project_id": "turma-79c17",
+    "storage_bucket": "turma-79c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081426719534:android:b155bdfd50fb98230dc0bf",
+        "android_client_info": {
+          "package_name": "com.example.telalogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx2FQivlJVuc-ioip3zkoRiYaoMdhdYZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
